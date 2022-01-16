@@ -38,3 +38,7 @@ If you wish to create your own modified version of the CS1 Game Server:
 - Make sure to set a unique version before publishing package to npm.
 - Open a **Terminal** and run ```cd src/server```
 - In the **Terminal** run ```npm publish```
+
+
+## How to run 
+
